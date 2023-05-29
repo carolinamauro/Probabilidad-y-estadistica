@@ -1,5 +1,6 @@
 # Probabilidad-y-estadistica
 Resumenes, parciales y finales de la materia probabilidad y estadística
+Curso 21 - Vera
 
 # Qué vas a encontrar
 ### Mi resumen de Notion
@@ -13,5 +14,5 @@ https://cmauro-fiuba.notion.site/Probabilidad-y-Estad-stica-a8f5312e07a2455cb62d
 ### Drives MUY UTILES (completamente robados, agradezco a quien los hizo :), me salvo la materia)
 - https://drive.google.com/drive/folders/1tRqQyOwLZJSx4_ZDCwJfFSEjIsBxJu9z
 
-
-
+Lo voy a ir completando con el tiempo... 
+Besote
